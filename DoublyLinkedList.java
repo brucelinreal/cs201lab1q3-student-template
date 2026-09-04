@@ -138,6 +138,7 @@ public class DoublyLinkedList<E> {
 
                 
             }
+            //halo
             current = current.getNext(); 
         }
     }
